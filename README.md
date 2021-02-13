@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arslan</h1>
 <h3 align="center">I am learning Java,C++, .net languages </h3>
 
-<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fjaxenter.com%2Finterview-programmer-life-161818.html&psig=AOvVaw3G90c9UbuL_wTWvMwMQAUu&ust=1613282178699000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDGwcuW5u4CFQAAAAAdAAAAABAD" alt="Arslan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-username&color=lightgrey&style=flat-square&label=VIEWS" alt="Arslan" /> </p>
 
 - 🔭 I’m currently working on **my school project**
 
