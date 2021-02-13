@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arslan</h1>
-<h3 align="center">I am learning Java,C++, .net languages </h3>
+<h3 align="center">I am learning Java,C++, C# </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arslanalimov&color=lightgrey&style=flat-square&label=VIEWS" alt="Arslan" /> </p>
 
