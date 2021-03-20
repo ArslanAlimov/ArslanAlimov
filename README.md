@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arslanalimov&color=lightgrey&style=flat-square&label=VIEWS" alt="Arslan" /> </p>
 
-- 🔭 I’m currently working on **my school project**
+- 🔭 I’m currently working on **my school projects**
 
 <p align="center"> <img src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=arslanalimov&count_private=true&show_icons=true&theme=midnight-purple" /> </p>
 <p align="center">  <img src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=arslanalimov&hide=php&theme=midnight-purple" /> </p>
