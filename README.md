@@ -3,6 +3,5 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arslanalimov&color=lightgrey&style=flat-square&label=VIEWS" alt="Arslan" /> </p>
 
-- 🔭 I’m currently working on **my school projects**
 
 
